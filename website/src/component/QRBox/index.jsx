@@ -4,7 +4,7 @@ const QRBox = () => {
   return (
     <div className={classes.container}>
       <figure className={classes.image}>
-        <img src="/image-qr-code.png" />
+        <img src="/image-qr-code.png" alt="QRCode" />
       </figure>
       <h3 className={classes.title}>
         Improve your front-end skills by building projects
